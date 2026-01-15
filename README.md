@@ -80,7 +80,7 @@ A stripped down Linux container for data science
 
 ## Installing Software
 
-| Tool      | Installs          | Used For                            | Example                               | Notes (Important!)      |
+| Tool      | Installs          | Used For                            | Example                               | What it Does            |
 | --------- | ----------------- | ----------------------------------- | -----------------------------------   | ----------------------- |
 | **apt**   | System packages   | Linux tools, compilers, system libs | `sudo apt install git`                | Linux-wide install      |
 |           |                   |                                     | `sudo apt update`                     | Run before installing   |

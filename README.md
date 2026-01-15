@@ -2,7 +2,7 @@
 
 A Linux container for data science 
 
-**In VS Code, make sure you have the Dev Containers extension installed.**
+**In VS Code, make sure you have the Dev Containers extension installed. When you open this repo in VS Code, it should automatically notice that it's a conatiner, and offer to reopen inside the container and build it.**
 
 ## Git Basics
 
